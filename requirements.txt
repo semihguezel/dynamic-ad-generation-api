@@ -1,0 +1,7 @@
+diffusers["torch"]
+transformers
+fastapi
+python-multipart
+uvicorn
+pyngrok
+nest_asyncio
